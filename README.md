@@ -54,9 +54,11 @@ A SwiftUI-based educational app that helps users **practice multiplication and d
 
 🔹 **Tech Stack**: Swift, SwiftUI, Xcode  
 
-🔗 **[GitHub Repo](#)** | 📸 *Demo Screenshot/GIF Here*  
+🔗 **[GitHub Repo](https://github.com/salzahir/ShufMath)**  
 
----
+<div align="left">
+  <img src="https://github.com/salzahir/ShufMath/blob/main/images/appIcon.png?raw=true" alt="ShufMath Demo" width="200">
+</div>
 
 ## 💡 **Experience**  
 - Developed multiple **SwiftUI apps** implementing **state management, UI/UX design, and animations**  
