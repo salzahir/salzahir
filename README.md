@@ -75,15 +75,3 @@ A SwiftUI-based educational app that helps users **practice multiplication and d
 - **Languages**: Bengali, English  
 
 ---
-
-## 📫 **Connect With Me**  
-📧 **Email**: salzahir18@gmail.com  
-📌 **GitHub**: [github.com/yourusername](#)  
-💼 **LinkedIn**: [linkedin.com/in/yourprofile](#)  
-
----
-
-### **What’s Next?**  
-✔ Improving my SwiftUI & front-end skills  
-✔ Exploring machine learning applications  
-✔ Building more **original projects** to showcase my expertise  
