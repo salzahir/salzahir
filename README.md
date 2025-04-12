@@ -75,7 +75,7 @@ A real-time **chat application** that allows users to join rooms and communicate
 🔗 **[GitHub Repo](https://github.com/salzahir/EchoRoom)**  
 
 <div align="left">
-  <img src="https://github.com/salzahir/EchoRoom/images/icon.png?raw=true" alt="EchoRoom Demo" width="200">
+<img src="https://github.com/salzahir/EchoRoom/blob/main/images/icon.png?raw=true" alt="EchoRoom Demo" width="200">
 </div>
 
 ## 💡 **Experience**  
