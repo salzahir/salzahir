@@ -1,15 +1,15 @@
 # **Salman Zahir**  
-**Computer Science Student | Software Engineering Enthusiast | App Developer**  
+**Second-year Computer Science Student | Back-End Developer | Full-Stack Developer**  
 
 ## 🚀 **About Me**  
-I’m a sophomore **Computer Science** student passionate about **software engineering**, **machine learning**, and **mobile app development**. I specialize in building **scalable** and **impactful** projects using **Swift** and **JavaScript**.  
+I'm a second-year **Computer Science** student specializing in **back-end development** with expertise in **Flask**, **Node.js**, **PostgreSQL**, and **REST APIs**. I also build **full-stack systems** using **SwiftUI**. My passion lies in **optimizing software** with a focus on **clean architecture**, **performance**, and **collaboration**.  
 
-With a strong foundation in **algorithms**, **data structures**, and **front-end frameworks**, I aim to create **intuitive** and **engaging** applications. I’m always eager to **collaborate**, contribute to **open-source**, and grow in the tech community.  
+I am always looking to grow and refine my skills through **hands-on projects**, **technical challenges**, and **open-source contributions**. I'm actively seeking to contribute to impactful projects and collaborate with like-minded developers.  
 
 📌 **Seeking**: 2025 Software Engineering Internship  
 📩 **Contact**: **salzahir18@gmail.com**  
 
----  
+---
 
 ## 🛠 **Tech Stack**  
 
@@ -34,9 +34,10 @@ With a strong foundation in **algorithms**, **data structures**, and **front-end
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
 
 ### **Technologies**  
-✔ **Algorithms & Data Structures**  
-✔ **Machine Learning Concepts**  
-✔ **Front-End & Back-End Development**  
+✔ **Back-End Development** (Flask, Node.js, PostgreSQL)  
+✔ **Full-Stack Development** (SwiftUI)  
+✔ **REST APIs**  
+✔ **Clean Architecture** & **Optimized Performance**  
 
 ---  
 
@@ -58,6 +59,23 @@ A SwiftUI-based educational app that helps users **practice multiplication and d
 
 <div align="left">
   <img src="https://github.com/salzahir/ShufMath/blob/main/images/appIcon.png?raw=true" alt="ShufMath Demo" width="200">
+</div>
+
+### **🔹 EchoRoom**
+A real-time **chat application** that allows users to join rooms and communicate instantly.
+
+🔹 **Problem Statement**: Many chat applications lack an engaging and dynamic user experience. EchoRoom provides a **room-based chat system** for a more interactive communication experience.
+
+🔹 **Key Features**:  
+✅ **Room-based chat system** for users to join different rooms  
+✅ **Responsive UI** with smooth transitions  
+
+🔹 **Tech Stack**: JavaScript, Node.js, Express  
+
+🔗 **[GitHub Repo](https://github.com/salzahir/EchoRoom)**  
+
+<div align="left">
+  <img src="https://github.com/salzahir/EchoRoom/images/icon.png?raw=true" alt="EchoRoom Demo" width="200">
 </div>
 
 ## 💡 **Experience**  
