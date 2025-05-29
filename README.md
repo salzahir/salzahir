@@ -1,13 +1,13 @@
-# 👋 Salman Zahir  
-**Backend Developer | CS @ UMN (Class of 2027) | Building Scalable Systems with Node.js, TypeScript, PostgreSQL**
+# 👋 Hey — I'm Salman  
+**Backend Developer | Computer Science Undergrad | Building Scalable Systems with Node.js, TypeScript, PostgreSQL**
 
 ## 🧠 About Me
 
-I'm a third-year Computer Science student at the University of Minnesota focused on **backend development** and **software engineering**. I’ve built full-stack apps using modern tools like **Node.js**, **TypeScript**, **Prisma**, **Supabase**, and **Docker** — with an emphasis on clean architecture, security, and performance.
+I'm a CS undergrad focused on **backend development** and **software engineering**. I’ve built full-stack apps using tools like **Node.js**, **TypeScript**, **Prisma**, **Supabase**, and **Docker** — with a strong focus on clean architecture, security, and performance.
 
-📌 Currently building: [Postbound](https://github.com/salzahir/Postbound) — a TypeScript REST API with JWT auth and Dockerized deployment.  
+📌 Currently building: a RESTful TypeScript API with JWT auth and Docker deployment  
 🎯 Seeking: **Fall 2025 Software Engineering Internship** (Backend-focused)  
-📩 Email: [salzahir18@gmail.com](mailto:salzahir18@gmail.com)
+📩 Email: *available upon request*
 
 ---
 
@@ -24,34 +24,30 @@ I'm a third-year Computer Science student at the University of Minnesota focused
 
 ## 🚀 Highlight Projects
 
-### 🔹 [Postbound](https://github.com/salzahir/Postbound)  
+### 🔹 REST API w/ Auth  
 **Node.js, TypeScript, Prisma, Supabase, Docker**  
-A fully RESTful API with secure JWT auth, Prisma ORM, and Docker containerization. Includes modular architecture, user-post relationships, and production configs.
+A modular, production-ready REST API with secure JWT auth, Prisma ORM, and Docker containerization.
 
-### 🔹 [SkyStore](https://github.com/salzahir/SkyStore)  
-**Node.js, Express, Passport.js, Supabase**  
-A Google Drive-style file storage system with secure auth, file/folder hierarchy, and Supabase cloud storage. Designed with session persistence and CSRF protection.
+### 🔹 Cloud Storage Clone  
+**Node.js, Express, Supabase**  
+A Google Drive-style system with secure auth, file/folder hierarchy, and Supabase integration.
 
-### 🔹 [EchoRoom](https://github.com/salzahir/EchoRoom)  
+### 🔹 Real-Time Messaging Backend  
 **Node.js, PostgreSQL**  
-Real-time messaging app with role-based access and secure backend logic. Follows MVC pattern with CSRF protection and normalized DB schema.
+Real-time messaging backend with role-based access, normalized DB schema, and CSRF protection.
 
-<div align="left">
-<img src="https://github.com/salzahir/EchoRoom/blob/main/images/icon.png?raw=true" alt="EchoRoom Demo" width="200">
-</div>
-
-### 🔹 [Lift Log](https://github.com/salzahir/LiftLog)  
+### 🔹 Gym Workout Tracker  
 **Node.js, PostgreSQL, EJS**  
-CRUD-based gym workout tracker with a RESTful backend, PostgreSQL schema optimization, and a dynamic EJS frontend.
+CRUD-based gym log app with a RESTful backend, dynamic EJS frontend, and PostgreSQL schema optimization.
 
 ---
 
 ## 💼 Experience
 
-- Built and deployed **production-grade full-stack apps**
-- Implemented JWT, session auth, Dockerization, and RESTful APIs
-- Hands-on with **real DB design**, middleware, and API security
-- Currently working on improving **TypeScript proficiency and system design**
+- Built and deployed **production-ready full-stack applications**  
+- Implemented JWT, session auth, Dockerized backends, and scalable REST APIs  
+- Designed real database schemas and secure middleware logic  
+- Currently deepening expertise in **TypeScript** and **system design**
 
 ---
 
@@ -64,4 +60,4 @@ CRUD-based gym workout tracker with a RESTful backend, PostgreSQL schema optimiz
 
 ---
 
-🔥 Let’s connect if you're working on backend systems or open-source tools!
+🔥 Open to backend collaboration and OSS contributions!
