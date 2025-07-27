@@ -2,11 +2,11 @@
 **Backend Developer | CS Undergrad | Building Scalable Systems with Node.js, TypeScript, PostgreSQL**
 
 ## 🧠 About Me  
-I'm a Computer Science student specializing in **backend development** and **software engineering**. I build secure, scalable systems using modern tools like **Node.js**, **TypeScript**, **Prisma**, and **Docker** — with a strong focus on clean architecture and performance.
+I'm a Computer Science student focused on **backend engineering** and **distributed systems**. I build secure, production-grade software using tools like **Node.js**, **TypeScript**, **Prisma**, and **Docker**, with an emphasis on clean architecture, scalability, and performance.
 
-- 📍 Based in the U.S. | Open to remote roles  
-- 🛠️ Currently working on backend infrastructure at a crypto analytics startup  
-- 🎯 Actively seeking: **Fall 2025 Software Engineering Internship (Backend-focused)**  
+- 🧩 Strong backend fundamentals: auth flows, schema design, service abstraction, API security  
+- 🛠️ Building backend infrastructure at a stealth-stage startup  
+- 🎯 Seeking: **Fall 2025 SWE Internship (Backend-Focused)**  
 - 📫 Contact: [salzahir18@gmail.com](mailto:salzahir18@gmail.com)
 
 ---
@@ -24,19 +24,18 @@ I'm a Computer Science student specializing in **backend development** and **sof
 
 ## 🔍 Projects
 
+### 🔹 Siege Spotter – Backend-Driven Image Spotting Game  
+**Stack:** Next.js, Express, TypeScript, PostgreSQL, Prisma, JWT  
+- Designed a secure RESTful API with JWT-based auth using HttpOnly cookies for XSS protection  
+- Built backend logic for coordinate-based validation, gameplay enforcement, and leaderboard tracking  
+- Modeled relational schema with Prisma for user persistence, ranking system, and bcrypt-hashed credentials
+
 ### 🔹 Postbound – RESTful Blog API  
 **Stack:** Node.js, TypeScript, Prisma, Supabase, Docker  
-- Production-ready API with JWT auth, role-based access, and full Post/Comment CRUD  
-- Containerized with Docker and deployed on Render  
+- JWT-authenticated API with role-based access and full Post/Comment CRUD  
+- Dockerized and deployed on Render with modular route structure and error handling
 
 ### 🔹 SkyStore – Cloud Storage Platform  
 **Stack:** Node.js, Express, Supabase, Prisma  
-- Built a secure file storage system with scoped access, uploads, and public file control  
-
-### 🔹 EchoRoom – Messaging Backend  
-**Stack:** Node.js, PostgreSQL  
-- Role-based messaging system with normalized schema and CSRF/session security  
-
-### 🔹 ShufMath – Mobile Learning App  
-**Stack:** SwiftUI, MVVM  
-- Interactive math game app with real-time feedback and persistent scores  
+- Secure file storage system with scoped access, public/private file toggles, and user session control  
+- Integrated Multer for uploads and Supabase storage for cloud handling
