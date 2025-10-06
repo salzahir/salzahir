@@ -19,7 +19,6 @@ I'm a Computer Science student specializing in **backend engineering**, **distri
 **Databases:** PostgreSQL, Supabase, SQLite  
 **Tools:** Docker, Git, AWS, Postman, Render, VS Code, Jira  
 **Core Systems:** REST APIs, MVC, CI/CD, Auth Flows, Containerization
-
 ---
 
 ## 🧠 Projects
