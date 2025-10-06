@@ -1,40 +1,48 @@
 # Hey, I'm Salman  
-**Backend Developer | CS Undergrad | Building Scalable Systems with Node.js, TypeScript, PostgreSQL**
+**Backend Engineer | CS Undergrad | Building Scalable Systems with Node.js & TypeScript**
 
-## About Me  
-I'm a Computer Science student focused on **backend engineering** and **distributed systems**. I build secure, production-grade software using tools like **Node.js**, **TypeScript**, **Prisma**, and **Docker**, with an emphasis on clean architecture, scalability, and performance.
+## 🚀 About Me  
+I'm a Computer Science student specializing in **backend engineering**, **distributed systems**, and **API security**. I design and build scalable, production-grade systems with a strong focus on **clean architecture**, **auth**, and **performance**.
 
-- Strong backend fundamentals: auth flows, schema design, service abstraction, API security  
-- Currently working in fintech and payments with a focus on PCI compliance  
+- Strong fundamentals in REST APIs, authentication, and schema design  
+- Currently working in fintech/payments with PCI-compliant systems  
+- Building secure infrastructure using **Node.js**, **TypeScript**, **PostgreSQL**, and **Docker**  
 - Contact: [salzahir.dev@gmail.com](mailto:salzahir.dev@gmail.com)
 
 ---
 
-## Tech Stack
+## ⚙️ Tech Stack
 
 **Languages:** TypeScript, JavaScript, Python, SQL, Java, C++, C, Swift  
 **Backend:** Node.js, Express, FastAPI, Flask, Prisma, Passport.js, JWT  
 **Frontend:** React, Next.js (App Router), SwiftUI, EJS, HTML/CSS  
 **Databases:** PostgreSQL, Supabase, SQLite  
-**Tools:** Docker, Git, Postman, AWS, Render, VS Code, Jira  
-**Systems:** REST APIs, MVC, CI/CD, Auth, Containerization
+**Tools:** Docker, Git, AWS, Postman, Render, VS Code, Jira  
+**Core Systems:** REST APIs, MVC, CI/CD, Auth Flows, Containerization
 
 ---
 
-## Projects
+## 🧠 Projects
 
-### Siege Spotter – Backend-Driven Image Spotting Game  
+### 🕵️‍♂️ Siege Spotter – Image Spotting Game with Secure API Backend  
 **Stack:** Next.js, Express, TypeScript, PostgreSQL, Prisma, JWT  
-- Designed a secure RESTful API with JWT-based auth using HttpOnly cookies for XSS protection  
-- Built backend logic for coordinate-based validation, gameplay enforcement, and leaderboard tracking  
-- Modeled relational schema with Prisma for user persistence, ranking system, and bcrypt-hashed credentials
+- Architected a REST API with secure JWT + HttpOnly cookie auth (XSS-protected)  
+- Built game logic with coordinate-based validation and leaderboard scoring  
+- Modeled relational schema with Prisma and hashed user credentials with bcrypt
 
-### Postbound – RESTful Blog API  
+### 📝 Postbound – Scalable Blog API  
 **Stack:** Node.js, TypeScript, Prisma, Supabase, Docker  
-- JWT-authenticated API with role-based access and full Post/Comment CRUD  
-- Dockerized and deployed on Render with modular route structure and error handling
+- Role-based access system with full Post/Comment CRUD  
+- Clean modular structure with centralized error handling and JWT auth  
+- Fully containerized and deployed via Docker & Render
 
-### SkyStore – Cloud Storage Platform  
+### ☁️ SkyStore – File Hosting Platform  
 **Stack:** Node.js, Express, Supabase, Prisma  
-- Secure file storage system with scoped access, public/private file toggles, and user session control  
-- Integrated Multer for uploads and Supabase storage for cloud handling
+- Built cloud storage with public/private file toggles and session-based access  
+- Integrated Multer for secure uploads, Supabase for cloud file storage
+
+---
+
+## 📫 Reach Me  
+**Email:** [salzahir.dev@gmail.com](mailto:salzahir.dev@gmail.com)  
+**Website/Portfolio:** *coming soon*  
